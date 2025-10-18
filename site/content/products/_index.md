@@ -1,96 +1,85 @@
 ---
-title: Our Coffee
+title: Our Solar Solutions
 type: products
 image: /img/products-jumbotron.jpg
 intro:
   heading: What we offer
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+    Aureon Solar Renewable Energy provides complete solar power solutions — from
+    rooftop installations and on-grid systems to government subsidy assistance.
+    We help homes and businesses adopt clean, reliable, and cost-effective
+    renewable energy for a sustainable future.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        We design and install **On-Grid Solar Power Systems** tailored to your
+        home or business. Our team ensures maximum energy efficiency, reliability,
+        and return on investment with the latest DCR bifacial solar panels.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Our **EPC Turnkey Solutions** cover everything from design and procurement
+        to installation and maintenance. You focus on savings — we handle the rest.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        We guide you through the **PM Surya Ghar Subsidy Scheme**, helping you
+        claim up to ₹78,000 directly from the government. Our experts simplify
+        documentation, net metering, and subsidy disbursement.
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe in powering communities through clean energy. Our mission is to
+        make solar affordable, efficient, and accessible for every Indian household
+        — contributing to a greener planet and energy independence.
 main:
-  heading: Great coffee with no compromises
+  heading: Solar Energy with No Compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Every solar system we install is built to last — using high-quality components,
+    certified engineers, and transparent processes. From the initial site survey
+    to post-installation maintenance, we ensure your system delivers sustainable
+    power and long-term savings.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Rooftop solar panels installed on a residential building
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Engineer inspecting an inverter and solar connection
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Solar panels capturing sunlight to power homes
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Harish – Chennai
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      I installed a 4.4 kW solar system from Solar Guru and it’s been fantastic!
+      The team handled everything including subsidy, and my power bills have dropped drastically.
+  - author: Vijayalakshmi – Poonamallee
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Excellent service and quick installation. The engineers explained the process
+      clearly, and I received my subsidy without any hassle. Highly recommend them!
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Residential & Commercial Packages
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Choose a solar plan that fits your energy needs. All packages include installation,
+    warranty, and support with government subsidy processing.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Ideal for small households (2–3 BHK) to reduce up to 60% of your electricity bill.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-      plan: Small
-      price: '50'
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - 3.3 kW Solar Power System
+        - 3 kW Inverter (7-year warranty)
+        - Net metering & subsidy assistance
+      plan: Home Starter
+      price: '195000'
+    - description: Perfect for independent homes under the PM Surya Ghar subsidy scheme.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 4.4 kW DCR Bifacial Panels
+        - 5 kW Sungrow Inverter
+        - Installation, Testing & Commissioning
+      plan: Standard Package
+      price: '270000'
+    - description: Designed for commercial or larger residences with higher power consumption.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - 5 kW or higher capacity system
+        - Premium bifacial panels with smart monitoring
+        - Priority service & maintenance support
+      plan: Premium Plan
+      price: '320000'
 ---
-
-
